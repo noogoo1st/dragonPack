@@ -1,1 +1,2 @@
 # dragonPack
+must use optifine
